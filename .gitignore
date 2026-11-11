@@ -1,0 +1,6 @@
+*.local.js
+*KEY*.txt
+api_key*.txt
+.env
+.env.*
+.DS_Store
